@@ -42,8 +42,8 @@ echo $meta_data['location']['address'];
 ##### That's it. Try it out and make some awesome projects with [Codestar Framework](http://codestarframework.com/)
 
 
-## Credits
-* [Geocomplete](http://ubilabs.github.com/geocomplete/). 
+## Credit
+[Geocomplete](http://ubilabs.github.com/geocomplete/). 
 
 ## More Info
 To acquire knowledge how Codestar Framework works then [Click Here](http://codestarframework.com/documentation/)
