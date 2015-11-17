@@ -3,8 +3,7 @@ An user friendly google map field for Codestar WordPress Options Framework. No n
 
 
 ## Screenshot
-[!(https://38082e71eb609cb0105210683e659ec65479e150.googledrive.com/host/0BySyb5N8_B99QmdqOHZTdXZzdzA/google-map.gif)]
-
+[![Google Map Screenshot](https://38082e71eb609cb0105210683e659ec65479e150.googledrive.com/host/0BySyb5N8_B99QmdqOHZTdXZzdzA/google-map.gif)](https://38082e71eb609cb0105210683e659ec65479e150.googledrive.com/host/0BySyb5N8_B99QmdqOHZTdXZzdzA/google-map.gif)
 
 ## Installation
 * Download zip file from github repository
