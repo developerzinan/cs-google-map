@@ -3,7 +3,7 @@ An user friendly google map field for Codestar WordPress Options Framework. No n
 
 
 ## Screenshot
-[![Google Map for Codestar Framework Screenshot](https://goo.gl/tG6Dui)]
+[!(https://38082e71eb609cb0105210683e659ec65479e150.googledrive.com/host/0BySyb5N8_B99QmdqOHZTdXZzdzA/google-map.gif)]
 
 
 ## Installation
@@ -27,7 +27,7 @@ array(
 
 
 ## Output
-Two values lat and lon will be stored as an array under your defined ID. Example to get output from this field: 
+Two values lat and lon will be stored as an array under your defined ID. Example to get output from these fields: 
 ```php
 $meta_data = get_post_meta( get_the_id(), '_custom_page_options', true );
 
