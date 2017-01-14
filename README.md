@@ -1,4 +1,4 @@
-# Google Map for Codestar Framework
+# Google Map for Codestar Framework (WordPress Theme Option Framework)
 An user friendly google map field for Codestar WordPress Options Framework. No need to go any website to find out google map latitude or longitude , just type your address in input box and get those data for frontend uses!
 
 
